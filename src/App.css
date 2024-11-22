@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: #000000;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  background-color: yellow;
+  margin: 20px auto;
+  width: 500px;
+}
